@@ -8,8 +8,8 @@ import (
 	"log"
 	"net"
 
-	"code.google.com/p/go.net/internal/iana"
-	"code.google.com/p/go.net/ipv4"
+	"github.com/hashicorp/go.net/internal/iana"
+	"github.com/hashicorp/go.net/ipv4"
 )
 
 func ExampleUnicastTCPListener() {

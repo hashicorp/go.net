@@ -10,9 +10,9 @@ import (
 	"errors"
 	"net"
 
-	"code.google.com/p/go.net/internal/iana"
-	"code.google.com/p/go.net/ipv4"
-	"code.google.com/p/go.net/ipv6"
+	"github.com/hashicorp/go.net/internal/iana"
+	"github.com/hashicorp/go.net/ipv4"
+	"github.com/hashicorp/go.net/ipv6"
 )
 
 // A Type represents an ICMP message type.
