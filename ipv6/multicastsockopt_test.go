@@ -5,7 +5,7 @@
 package ipv6_test
 
 import (
-	"code.google.com/p/go.net/ipv6"
+	"golang.org/x/net/ipv6"
 	"net"
 	"os"
 	"runtime"
