@@ -1,3 +1,5 @@
+*Avoid this repository*: This repository is a very old fork of http://golang.org/x/net .  Use the upstream repository instead.
+
 This repository holds supplementary Go networking libraries.
 
 To submit changes to this repository, see http://golang.org/doc/contribute.html.
