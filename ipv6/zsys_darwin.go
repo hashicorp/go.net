@@ -1,3 +1,6 @@
+// Copyright IBM Corp. 2012, 2025
+// SPDX-License-Identifier: BSD-3-Clause
+
 // Created by cgo -godefs - DO NOT EDIT
 // cgo -godefs defs_darwin.go
 
