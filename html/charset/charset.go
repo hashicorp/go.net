@@ -1,3 +1,6 @@
+// Copyright IBM Corp. 2012, 2025
+// SPDX-License-Identifier: BSD-3-Clause
+
 // Package charset provides common text encodings for HTML documents.
 //
 // The mapping from encoding labels to encodings is defined at
